@@ -1,3 +1,5 @@
+#Alumno: Rosales Lazaro Jose Eduardo
+#Numero de Cuenta: 316349505
 import xlrd
 from arrays import *
 def main():
